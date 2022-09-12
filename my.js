@@ -4,7 +4,7 @@ new Vue(
     {
     el: '#message',
     data:{
-        welcome: 'Hello World';
+        welcome: 'Hello World',
     }
 }
 ); 
